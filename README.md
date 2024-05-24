@@ -26,36 +26,23 @@ XarV2-TG-BOT is a versatile Telegram bot project designed to automate tasks, res
    
 2. **Install Dependencies**:
    ```sh
-   pip install -r requirements.txt
+  npm install 
    ```
 
 3. **Configure the Bot**:
    - there's a config file in the root directory.
    - Add your bot token and other settings:
      ```
-     {
-  "prefix": "/",
-  "greetNewMembers": {
-        "enabled": true,
-        "gifUrl": "https://tinyurl.com/2xzaydex"
-  },
-  "port": "8080",
-  "owner": "your name",
-  "owner_id": your id,
   "token": "bot token ",
-  "age": "age",
-  "gender": "sex",
-  "country": "your country"
-}
-     ```
+    ```
 
 ### Running the Bot
 
 - **Locally**:
   ```sh
-  python bot.py
+  node index 
   ```
-- **Deploy to a Hosting Platform** (e.g., Heroku, AWS, etc.):
+- **Deploy to a Hosting Platform** (e.g., Heroku, AWS, lightning ai .ng ):
   - Follow the specific platform instructions to deploy your bot.
 
 ## Usage
@@ -70,7 +57,7 @@ To interact with the bot, users can send commands and messages. The bot will res
 
 We welcome contributions! To contribute to the project, please follow these steps:
 
-1. **Report Issues**: Submit bug reports or feature requests as issues on the [GitHub repository](https://github.com/yourusername/XarV2-TG-BOT/issues).
+1. **Report Issues**: Submit bug reports or feature requests as issues on the [GitHub repository](https://github.com/samirxpikachuio/XarV2-TG-BOT/issues).
 2. **Fork the Repository**: Create your own fork and make a new branch for your changes.
 3. **Submit a Pull Request**: Provide a clear description of your changes and the issues they address.
 
