@@ -20,7 +20,7 @@ XarV2-TG-BOT is a versatile Telegram bot project designed to automate tasks, res
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/XarV2-TG-BOT.git
+   git clone https://github.com/samirxpikachuio/XarV2-TG-BOT.git
    cd XarV2-TG-BOT
    ```
    
