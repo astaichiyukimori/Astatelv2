@@ -33,8 +33,8 @@ XarV2-TG-BOT is a versatile Telegram bot project designed to automate tasks, res
    - there's a config file in the root directory.
    - Add your bot token and other settings:
      ```
-     "token": "bot token ",
-    ```
+     "token": "bot token "
+     ```
 
 ### Running the Bot
 
