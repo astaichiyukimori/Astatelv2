@@ -1,14 +1,14 @@
 {
-  "prefix": "/",
+  "prefix": "!",
   "greetNewMembers": {
         "enabled": true,
         "gifUrl": "https://tinyurl.com/2xzaydex"
   },
   "port": "8080",
-  "owner": "your name",
-  "owner_id": 1472439428,
-  "token": "add your telegram bot token",
-  "age": "your age",
-  "gender": "your gender",
-  "country": "your county"
+  "owner": "Asta ichiyukimori",
+  "owner_id": 7057407504,
+  "token": "7057407504:AAF1mm4SG8U20d5Mfx9yRK0BXj7YsKxUcKU",
+  "age": "15",
+  "gender": "Male",
+  "country": "Nigeria"
 }
